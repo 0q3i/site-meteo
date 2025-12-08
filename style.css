@@ -1,0 +1,48 @@
+body {
+	height: 100vh;
+}
+
+
+#main {
+	position: relative;
+	z-index:0;
+	height:100vh;
+	width:100%;
+}
+
+#header {
+	position: relative;
+	z-index:0;
+	height:5%;
+	width:100%;
+	background-color:green;
+}
+
+#tool-bar{
+	position: relative;
+	z-index:0;
+	height:10%;
+	width:100%;
+	background-color:#005891;
+}
+
+#photo{
+	position: relative;
+	z-index:1;
+	left:30%;
+	height:100%;
+	width:20%;
+}
+
+#img-MF{
+	position: absolute;
+	height:100%;
+	width:50%;
+}
+
+
+#bar-recherhe{
+	position: relative;
+	z-index:1;
+}
+
